@@ -82,6 +82,7 @@ async function TheFooter({ lang }: { lang: string }) {
                 key={link.service}
                 href={link.url}
                 target='_blank'
+                rel='noopener noreferrer'
                 className='h-6 w-6 '
               >
                 <span className='sr-only'>{link.service}</span>
