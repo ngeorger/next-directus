@@ -1,6 +1,8 @@
-<a href="https://github.com/luochuanyuewu/nextus" target="_blank">
+<a href="https://github.com/ngeorger/nextus" target="_blank">
   <h1 align="center">Nextus</h1>
 </a>
+
+Fork of: https://github.com/luochuanyuewu/nextus>
 
 # Notice
 
@@ -94,9 +96,9 @@ For a smooth experience, the [Directus SDK](https://docs.directus.io/guides/sdk
 
 Use [Directus Cloud](https://directus.cloud/register)/[Self-Hosting](https://docs.directus.io/self-hosted/quickstart.html) to quickly set up your own instance of directus.
 
-Then, apply the [Schema Snapshot](https://github.com/luochuanyuewu/nextus-docker/blob/main/snapshots/schema.yml) provided by Nextus using the [Schema Migration](https://docs.directus.io/guides/migration/hoppscotch.html) feature.
+Then, apply the [Schema Snapshot](https://github.com/ngeorger/nextus-docker/blob/main/snapshots/schema.yml) provided by Nextus using the [Schema Migration](https://docs.directus.io/guides/migration/hoppscotch.html) feature.
 
-Or, using [Nextus-Docker](https://github.com/luochuanyuewu/nextus-docker) to quickly setup Nextus backend with automaic schema applying.
+Or, using [Nextus-Docker](https://github.com/ngeorger/nextus-docker) to quickly setup Nextus backend with automaic schema applying.
 
 This way, your Nextus backend will be fully prepared.
 

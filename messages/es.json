@@ -1,0 +1,45 @@
+{
+  "global": {
+    "home_title": "Inicio",
+    "theme": "Tema",
+    "search": {
+      "no": "Sin resultados",
+      "end": "Fin de los resultados",
+      "for_posts": "Buscar artículos",
+      "for_help_articles": "Buscar artículos de ayuda"
+    },
+    "locale_switcher": {
+      "label": "Idioma",
+      "locale": "{locale, select, zh {中文} en {Inglés} other {Desconocido}}"
+    },
+    "lang_redirect": {
+      "heading": "No hay contenido disponible en tu idioma.",
+      "note": "Intenta cambiar a un idioma diferente."
+    },
+    "go_top": "ir arriba"
+  },
+  "projects": {
+    "page_title": "Todos los proyectos",
+    "latest": "Últimos proyectos",
+    "build_with": "Construido con",
+    "client": "Cliente",
+    "cost": "Costo",
+    "gallery": "Galería"
+  },
+  "help": {
+    "page_title": "Documentaciones",
+    "article_name": "Documentos",
+    "view": "Ver",
+    "title": "Centro de documentación",
+    "headline": "<p>¿Cómo podemos <em>ayudarte</em>?</p>",
+    "all_collections": "Todas las documentaciones"
+  },
+  "posts": {
+    "page_title": "Todos los artículos",
+    "search": "Buscar",
+    "categories": "Categorías",
+    "featured": "Artículo destacado",
+    "latest": "Lo último y lo mejor",
+    "category_for": "Artículos para la categoría: "
+  }
+}
