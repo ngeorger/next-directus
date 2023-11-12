@@ -9,7 +9,7 @@ export function getDirectusURL(path = '') {
 export function getDirectusMedia(
   url: string | DirectusFiles | null | undefined
 ) {
-  if (url == null || typeof url === undefined) {
+  if (url == null || typeof url === 'undefined') {
     return ''
   }
   let localUrl = typeof url === 'string' ? url : url.id
